@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1,
+		"name": "AK-47",
+		"ammo": 30,
+		"capacity": 30,
+		"fire_rate": 100,
+		"images": {
+			"static": "src/images/ak47.png",
+			"active": "src/images/shooting_ak47.png"
+		},
+		"audio": {
+			"shoot": "src/audio/ak47_fire.wav",
+			"reload": "src/audio/ak47_fill.wav",
+			"draw": "src/audio/ak47_draw.wav"
+		}
+	},
+	{
+		"id": 2,
+		"name": "M164",
+		"ammo": 35,
+		"capacity": 35,
+		"fire_rate": 100,
+		"images": {
+			"static": "src/images/m4.png",
+			"active": "src/images/shooting_m4.png"
+		},
+		"audio": {
+			"shoot": "src/audio/m4_fire.wav",
+			"reload": "src/audio/m4_fill.wav",
+			"draw": "src/audio/m4_draw.wav"
+		}
+	},
+	{
+		"id": 3,
+		"name": "Barrel AR",
+		"ammo": 40,
+		"capacity": 40,
+		"fire_rate": 100,
+		"images": {
+			"static": "src/images/galil.png",
+			"active": "src/images/shooting_galil.png"
+		},
+		"audio": {
+			"shoot": "src/audio/galil_fire.wav",
+			"reload": "src/audio/galil_fill.wav",
+			"draw": "src/audio/galil_draw.wav"
+		}
+	},
+	{
+		"id": 4,
+		"name": "Bulldog",
+		"ammo": 25,
+		"capacity": 25,
+		"fire_rate": 90,
+		"images": {
+			"static": "src/images/famas.png",
+			"active": "src/images/shooting_famas.png"
+		},
+		"audio": {
+			"shoot": "src/audio/famas_fire.wav",
+			"reload": "src/audio/famas_fill.wav",
+			"draw": "src/audio/famas_draw.wav"
+		}
+	},
+	{
+		"id": 5,
+		"name": "AWM",
+		"ammo": 7,
+		"capacity": 7,
+		"fire_rate": 225,
+		"images": {
+			"static": "src/images/awp.png",
+			"active": "src/images/shooting_awp.png"
+		},
+		"audio": {
+			"shoot": "src/audio/awp_fire.wav",
+			"reload": "src/audio/awp_fill.wav",
+			"draw": "src/audio/awp_draw.wav"
+		}
+	},
+	{
+		"id": 6,
+		"name": "Spectre",
+		"ammo": 30,
+		"capacity": 30,
+		"fire_rate": 80,
+		"images": {
+			"static": "src/images/mp5-sd.png",
+			"active": "src/images/shooting_mp5-sd.png"
+		},
+		"audio": {
+			"shoot": "src/audio/mp-5_fire.wav",
+			"reload": "src/audio/mp-5_fill.wav",
+			"draw": "src/audio/mp-5_draw.wav"
+		}
+	},
+	{
+		"id": 7,
+		"name": "Classic",
+		"ammo": 20,
+		"capacity": 20,
+		"fire_rate": 150,
+		"images": {
+			"static": "src/images/glock.png",
+			"active": "src/images/shooting_glock.png"
+		},
+		"audio": {
+			"shoot": "src/audio/glock_fire.wav",
+			"reload": "src/audio/glock_fill.wav",
+			"draw": "src/audio/glock_draw.wav"
+		}
+	},
+	{
+		"id": 8,
+		"name": "Ghost",
+		"ammo": 12,
+		"capacity": 12,
+		"fire_rate": 170,
+		"images": {
+			"static": "src/images/usp.png",
+			"active": "src/images/shooting_usp.png"
+		},
+		"audio": {
+			"shoot": "src/audio/usp_fire.wav",
+			"reload": "src/audio/usp_fill.wav",
+			"draw": "src/audio/usp_draw.wav"
+		}
+	},
+	{
+		"id": 9,
+		"name": "desert eagle",
+		"ammo": 7,
+		"capacity": 7,
+		"fire_rate": 225,
+		"images": {
+			"static": "src/images/deagle.png",
+			"active": "src/images/shooting_deagle.png"
+		},
+		"audio": {
+			"shoot": "src/audio/deagle_fire.wav",
+			"reload": "src/audio/deagle_fill.wav",
+			"draw": "src/audio/deagle_draw.wav"
+		}
+	},
+	{
+		"id": 10,
+		"name": "Bulldog",
+		"ammo": 50,
+		"capacity": 50,
+		"fire_rate": 70,
+		"images": {
+			"static": "src/images/p90.png",
+			"active": "src/images/shooting_p90.png"
+		},
+		"audio": {
+			"shoot": "src/audio/p90_fire.wav",
+			"reload": "src/audio/p90_fill.wav",
+			"draw": "src/audio/p90_draw.wav"
+		}
+	}
+]
